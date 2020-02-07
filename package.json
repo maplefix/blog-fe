@@ -1,6 +1,9 @@
 {
   "name": "blog-fe",
-  "version": "0.1.0",
+  "version": "2.0.0",
+  "description": "maple-blog 个人博客系统前端",
+  "author": "maple",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
