@@ -1,9 +1,6 @@
 {
-  "name": "blog-fe",
+  "name": "maple-blog-fe",
   "version": "2.0.0",
-  "description": "maple-blog 个人博客系统前端",
-  "author": "maple",
-  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "vue-cli-service serve",
@@ -27,7 +24,7 @@
     "vuex": "^3.1.2"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.12.0",
+    "@vue/cli-plugin-babel": "^3.12.1",
     "@vue/cli-plugin-eslint": "^3.12.0",
     "@vue/cli-service": "^4.1.2",
     "babel-core": "^6.26.3",
